@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7E8ac8G0uXBIUfJO5uDgPIBkIly7MKkIKBw0A+MpbvaE1NrjaEvaeyI7hrCqKEWC6BBWWuBWBY+smtCf43Haw==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Projects/qr/qr/qr.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/qrcoder/1.7.0/qrcoder.1.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
